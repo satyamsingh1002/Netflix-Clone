@@ -31,7 +31,7 @@ const Nav = () => {
 
       {/* Avatar */}
       <a
-        href="https://github.com/sanidhyy/netflix-clone"
+        href="https://github.com/satyamsingh1002/Netflix-Clone"
         target="_blank"
         rel="noreferrer noopener"
       >
